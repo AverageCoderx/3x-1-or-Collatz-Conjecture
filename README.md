@@ -14,3 +14,5 @@ end in this loop. Using this program you enter any number and it will
 follow the rules and tell you how many steps it took to get to the
 4, 2, 1 loop and the biggest number. Do you think you can find a number
 that proves the Collatz Conjecture wrong?
+
+Watch Veritasium's Video On The Collatz Conjecture Here: https://www.youtube.com/watch?v=094y1Z2wpJg
